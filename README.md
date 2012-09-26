@@ -2,6 +2,6 @@ The following web application is designed to create a random customerID server s
 
 index.php would be stored on a client's server, while createNumber.php and the customerID database would be stored on a separate server (hence the use of JSON).
 
-The web application can be seen (completely unstyled but functional) by going to worldhealthclub.calltrackingfox.com.
+The web application can be seen (completely unstyled but functional) by going to www.worldhealthclub.calltrackingfox.com.
 
 This was the beginnings of a project I was doing at a Dreamit Ventures company this summer (www.revsign.com).
