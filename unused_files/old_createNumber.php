@@ -1,11 +1,11 @@
 <?php
-$con = mysql_connect("db417658083.db.1and1.com","dbo417658083", "Zachpass");
+$con = mysql_connect(//db_host, db_username, db_password);
 if (!$con)
 	{
 		die('Could not connect: ' . mysql_error());
 	}
 
-mysql_select_db("db417658083", $con);
+mysql_select_db(//db_username, $con);
 
 $callback = '';
 if (isset($_GET['callback']))
